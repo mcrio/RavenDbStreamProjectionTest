@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamProjectionTest", "StreamProjectionTest\StreamProjectionTest.csproj", "{3B4CDBE9-96C4-4755-A113-326DA223DD7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib", "Lib\Lib.csproj", "{771CDE15-98AA-47C4-AC00-59F31436F306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B4CDBE9-96C4-4755-A113-326DA223DD7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4CDBE9-96C4-4755-A113-326DA223DD7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4CDBE9-96C4-4755-A113-326DA223DD7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4CDBE9-96C4-4755-A113-326DA223DD7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{771CDE15-98AA-47C4-AC00-59F31436F306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771CDE15-98AA-47C4-AC00-59F31436F306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771CDE15-98AA-47C4-AC00-59F31436F306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771CDE15-98AA-47C4-AC00-59F31436F306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
